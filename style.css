@@ -56,7 +56,7 @@ a {
 
 button {
     background-color: #3882F6;
-    color: #E5E7EB;
+    color: #F9FAF8;
     font-size: 16px;
     font-weight: 900;
     padding: 8px 30px;
@@ -116,4 +116,32 @@ button {
     font-size: 28px;
     font-weight: 900;
     color: #1F2937;
+}
+
+.block-4 {
+    padding: 84px 256px;
+}
+
+.sub-block-4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 48px;
+}
+
+.header-4 {
+    font-size: 24px;
+    color:#F9FAF8;
+    font-weight: 700;
+}
+
+.text-4 {
+    font-size: 18px;
+    color:#F9FAF8
+}
+
+ .sign-up-2 {
+    border: 2px solid white;
 }
