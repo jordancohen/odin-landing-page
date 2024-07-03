@@ -1,7 +1,6 @@
 body {
     font-family: roboto, Verdana, Tahoma, sans-serif;
     margin: 0;
-
 }
 
 .block-1 {
@@ -50,7 +49,7 @@ a {
     font-weight: 900;
 }
 
-.text-1 {
+.text {
     font-size: 18px;
     color: #E5E7EB
 }
@@ -64,4 +63,24 @@ button {
     border-radius: 8px;
     border: 0;
     margin: 12px 0;
+}
+
+.block-2 {
+    padding: 48px 256px;
+
+}
+
+.header-2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+}
+
+.sub-block-2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    padding: 48px 0;
 }
