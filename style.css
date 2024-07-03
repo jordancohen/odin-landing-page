@@ -67,7 +67,6 @@ button {
 
 .block-2 {
     padding: 48px 256px;
-
 }
 
 .header-2 {
@@ -96,4 +95,25 @@ button {
 .text-2 {
     color: #1F2937;
     font-size: 18px;
+}
+
+.sub-block-3 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #E5E7EB;
+    padding: 128px 256px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.signature {
+    font-size: 28px;
+    font-weight: 900;
+    color: #1F2937;
 }
