@@ -1,0 +1,14 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.block-1 {
+    background-color: #1F2937;
+    margin: 0;
+}
+
+.header {
+    color: #F9FAF8;
+    font-size: 24px;
+    margin: 0;
+}
