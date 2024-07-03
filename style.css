@@ -1,12 +1,12 @@
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: roboto, Verdana, Tahoma, sans-serif;
     margin: 0;
 
 }
 
 .block-1 {
     background-color: #1F2937;
-    padding: 0 16px;
+    padding: 24px 256px;
 }
 
 .header {
@@ -19,6 +19,7 @@ body {
 .logo {
     font-size: 24px;
     color: #F9FAF8;
+    font-weight: 900;
 }
 
 .header-links {
@@ -33,4 +34,34 @@ ul {
 a {
     text-decoration: none;
     color: #E5E7EB
+}
+
+.sub-block-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 32px;
+    margin-top: 24px;
+}
+
+.header-1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.text-1 {
+    font-size: 18px;
+    color: #E5E7EB
+}
+
+button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-size: 16px;
+    font-weight: 900;
+    padding: 8px 30px;
+    border-radius: 8px;
+    border: 0;
+    margin: 12px 0;
 }
