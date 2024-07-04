@@ -109,6 +109,7 @@ button {
 .quote {
     font-size: 36px;
     font-style: italic;
+    font-weight: 100;
     color: #1F2937;
 }
 
@@ -144,4 +145,16 @@ button {
 
  .sign-up-2 {
     border: 2px solid white;
+}
+
+.footer {
+    background-color: #1F2937;
+    padding: 48px 256px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-text {
+    font-size: 18px;
+    color: #F9FAF8
 }
